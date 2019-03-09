@@ -1,0 +1,7 @@
+D:\git\LearnC#\Abstract\Abstract\Abstract\bin\Debug\Abstract.exe.config
+D:\git\LearnC#\Abstract\Abstract\Abstract\bin\Debug\Abstract.exe
+D:\git\LearnC#\Abstract\Abstract\Abstract\bin\Debug\Abstract.pdb
+D:\git\LearnC#\Abstract\Abstract\Abstract\obj\Debug\Abstract.csprojResolveAssemblyReference.cache
+D:\git\LearnC#\Abstract\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+D:\git\LearnC#\Abstract\Abstract\Abstract\obj\Debug\Abstract.exe
+D:\git\LearnC#\Abstract\Abstract\Abstract\obj\Debug\Abstract.pdb
